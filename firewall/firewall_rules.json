@@ -1,0 +1,17 @@
+{
+  "ListOfBannedIpAddr": [
+    "192.168.1.105",
+    "10.0.0.5"
+  ],
+  "ListOfBannedPorts": [
+    23,
+    139,
+    445
+  ],
+  "ListOfBannedPrefixes": [
+    "192.168.10."
+  ],
+  "TimeThreshold": 10,
+  "PacketThreshold": 50,
+  "BlockPingAttacks": true
+}
